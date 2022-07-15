@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1656725829 source:p:\courses\nti\c embedded\notepad\final project\finalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"System.h"
+	"string.h"
+	"UI.h"
+	<conio.h>
+	"MACRO.h"
+
+1656726380 source:p:\courses\nti\c embedded\notepad\final project\finalc\system.c
+	<stdio.h>
+	"System.h"
+	"column.h"
+	<conio.h>
+	<string.h>
+	"MACRO.h"
+	<stdlib.h>
+	"string.h"
+
+1656725719 p:\courses\nti\c embedded\notepad\final project\finalc\system.h
+	"STD_TYPES.h"
+
+1656118919 p:\courses\nti\c embedded\notepad\final project\finalc\std_types.h
+
+1656110309 p:\courses\nti\c embedded\notepad\final project\finalc\column.h
+
+1656468511 p:\courses\nti\c embedded\notepad\final project\finalc\ui.h
+
+1656726685 source:p:\courses\nti\c embedded\notepad\final project\finalc\ui.c
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	"System.h"
+	"UI.h"
+	"System.h"
+	"Sort.h"
+	"MACRO.h"
+	<stdlib.h>
+
+1656725704 source:p:\courses\nti\c embedded\notepad\final project\finalc\sort.c
+	<stdio.h>
+	<stdlib.h>
+	"System.h"
+	"STD_TYPES.h"
+
+1656296798 p:\courses\nti\c embedded\notepad\final project\finalc\sort.h
+
+1656506901 p:\courses\nti\c embedded\notepad\final project\finalc\macro.h
+
+1656725829 source:p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"System.h"
+	"string.h"
+	"UI.h"
+	<conio.h>
+	"MACRO.h"
+
+1656118919 p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\std_types.h
+
+1656725719 p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\system.h
+	"STD_TYPES.h"
+
+1656468511 p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\ui.h
+
+1656506901 p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\macro.h
+
+1656746406 source:p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\sort.c
+	<stdio.h>
+	<stdlib.h>
+	"System.h"
+	"STD_TYPES.h"
+
+1656726380 source:p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\system.c
+	<stdio.h>
+	"System.h"
+	"column.h"
+	<conio.h>
+	<string.h>
+	"MACRO.h"
+	<stdlib.h>
+	"string.h"
+
+1656110309 p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\column.h
+
+1656726685 source:p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\ui.c
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	"System.h"
+	"UI.h"
+	"System.h"
+	"Sort.h"
+	"MACRO.h"
+	<stdlib.h>
+
+1656296798 p:\courses\nti\c embedded\notepad\final project - copy (2)\finalc\sort.h
+
